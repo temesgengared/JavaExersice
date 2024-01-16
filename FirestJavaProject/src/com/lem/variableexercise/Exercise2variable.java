@@ -1,11 +1,8 @@
 
 package com.lem.variableexercise;
-
-
 public class Exercise2variable {
 
-
-	public static void main(String[] args) {
+public static void main(String[] args) {
 		
 		//Declaration&Initializetion
 	     int a=50;

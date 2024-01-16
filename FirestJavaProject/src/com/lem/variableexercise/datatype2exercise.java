@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.lem.variableexercise;
 
 public class datatype2exercise {
